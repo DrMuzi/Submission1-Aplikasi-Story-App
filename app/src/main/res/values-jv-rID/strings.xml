@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoderStory</string>
+    <string name="cd_logo">Logo of Coder Story app</string>
+    <string name="tag_line">Let\'s Share Your Story Coder</string>
+    <string name="welcome">Sugeng Rawuh</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Mlebu</string>
+    <string name="email">E-Layang</string>
+    <string name="password">Sandi</string>
+    <string name="copyright">© 2022 Dicoding - Bangkit</string>
+    <string name="logout">Metu</string>
+    <string name="min_length_char">Sekedhit %1$d karakter</string>
+    <string name="email_hint">Teks E-Layangmu</string>
+    <string name="pass_hint">Teks Sandimu</string>
+    <string name="login_ket">Durung dhuweni akun?</string>
+    <string name="image_login">gambar mlebu</string>
+    <string name="invalid_email">Format surel salah!</string>
+    <string name="name">Jeneng</string>
+    <string name="name_hint">Teks Jenengmu</string>
+    <string name="signup_ket">Sampun dhuweni akun ?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_desc">Lebokno Deskripsi</string>
+    <string name="avatar">avatar</string>
+    <string name="username">jeneng pengguna</string>
+    <string name="message_validation">Masukkan %1$s mu</string>
+    <string name="next">Terusno</string>
+    <string name="login_success">Alhamudillah Mlebu!</string>
+    <string name="created_at">Digawe pas</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah cerita</string>
+    <string name="permission_denied">Tidak mendapatkan izin</string>
+    <string name="input_your_image">Mohon unggah gambar dahulu!</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="setting">Pengaturan</string>
+    <string name="login_error">Tidak bisa masuk, silakan coba lagi!</string>
+    <string name="signup_error">Tidak bisa daftar, silakan coba lagi!</string>
+    <string name="motto" translatable="false">Coder!!! Let\'s share your stories here</string>
+    <string name="start">Mulai</string>
+    <string name="swift"><![CDATA[Swipe >>]]></string>
+    <string name="cd_switch_camera">Tombol gawe ngubah kamera ngarep utowo mburi</string>
+    <string name="cd_capture">Tombol untuk menangkap gambar</string>
+    <string name="error_pick_image">Gagal mengambil gambar</string>
+    <string name="error_showing_camera">Gagal menampilkan kamera</string>
+</resources>

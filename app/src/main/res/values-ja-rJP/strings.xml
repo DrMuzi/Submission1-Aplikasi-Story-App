@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoderStory</string>
+    <string name="cd_logo">Logo of Coder Story app</string>
+    <string name="tag_line">Let\'s Share Your Story Coder</string>
+    <string name="welcome">いらっしゃいませ</string>
+    <string name="signup">登録</string>
+    <string name="login">ログイン</string>
+    <string name="email">Eメール</string>
+    <string name="password">パスワード</string>
+    <string name="copyright">© 2022 Dicoding - Bangkit</string>
+    <string name="logout">ログアウト</string>
+    <string name="min_length_char">最小長 %1$d 文字</string>
+    <string name="email_hint">メールにテキストメッセージを送信</string>
+    <string name="pass_hint">パスワードをテキスト送信</string>
+    <string name="login_ket">アカウントをお持ちではありませんか？</string>
+    <string name="image_login">画像ログイン</string>
+    <string name="invalid_email">メールのフォーマットが無効です！</string>
+    <string name="name">名前</string>
+    <string name="name_hint">あなたの名前をテキストで送信</string>
+    <string name="signup_ket">すでにアカウントをお持ちですか？</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="upload">アップロード</string>
+    <string name="hint_desc">説明をテキストで送信</string>
+    <string name="avatar">アバター</string>
+    <string name="username">ユーザー名</string>
+    <string name="message_validation">あなたの %1$s を入力してください</string>
+    <string name="next">次</string>
+    <string name="login_success">ログイン成功！</string>
+    <string name="created_at">作成場所</string>
+    <string name="description">説明</string>
+    <string name="add_story">ストーリーを追加</string>
+    <string name="permission_denied">許可を得ることができません</string>
+    <string name="input_your_image">最初に画像をアップロードしてください！</string>
+    <string name="choose_picture">写真を選ぶ</string>
+    <string name="setting">設定</string>
+    <string name="login_error">ログインできません。もう一度確認してください。</string>
+    <string name="signup_error">登録できません。もう一度確認してください。</string>
+    <string name="motto" translatable="false">Coder!!! Let\'s share your stories here</string>
+    <string name="start">始める</string>
+    <string name="swift"><![CDATA[Swipe >>]]></string>
+    <string name="cd_switch_camera">フロントカメラまたはリアカメラに切り替えるボタン</string>
+    <string name="cd_capture">画像をキャプチャするボタン</string>
+    <string name="error_pick_image">エラーピック画像</string>
+    <string name="error_showing_camera">カメラの表示中にエラーが発生しました</string>
+</resources>

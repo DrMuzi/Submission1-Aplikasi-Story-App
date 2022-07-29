@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CoderStory</string>
+    <string name="cd_logo">Logo of Coder Story app</string>
+    <string name="tag_line">Let\'s Share Your Story Coder</string>
+    <string name="welcome">Welcome</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyright">© 2022 Dicoding - Bangkit</string>
+    <string name="logout">Logout</string>
+    <string name="min_length_char">Minimal Length %1$d characters</string>
+    <string name="email_hint">Text your email</string>
+    <string name="pass_hint">Text your password</string>
+    <string name="login_ket">Don\'t have any account ?</string>
+    <string name="image_login">image login</string>
+    <string name="invalid_email">Format email is invalid!</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Text your name</string>
+    <string name="signup_ket">Already have an account ?</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_desc">Text your description</string>
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="message_validation">Enter your %1$s</string>
+    <string name="next">Next</string>
+    <string name="login_success">Login success!</string>
+    <string name="created_at">Created At</string>
+    <string name="description">Description</string>
+    <string name="add_story">Add Story</string>
+    <string name="permission_denied">Can\'t get permission</string>
+    <string name="input_your_image">Please upload your image first!</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="setting">Setting</string>
+    <string name="login_error">Cannot Login, please check again!</string>
+    <string name="signup_error">Cannot Signup, please check again!</string>
+    <string name="motto" translatable="false">Coder!!! Let\'s share your stories here</string>
+    <string name="start">Start</string>
+    <string name="swift"><![CDATA[Swipe >>]]></string>
+    <string name="cd_switch_camera">Button to switch to front or rear camera</string>
+    <string name="cd_capture">Button to capture image</string>
+    <string name="error_pick_image">Error pick image</string>
+    <string name="error_showing_camera">Error showing camera</string>
+</resources>
